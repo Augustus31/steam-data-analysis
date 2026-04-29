@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# MacOS specific
+.DS_Store
