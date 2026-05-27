@@ -1,101 +1,501 @@
 appid,min_storage,rec_storage,price,date,type,name
-4139320,5.0,-1,,,game,Temple of Sandur
-1725880,0.25,-1,1.99,2022-02-04 00:00:00,game,Project SNAQE
-865270,0.25,-1,1.99,2018-08-10 00:00:00,game,LIBRARY
-1819430,40.0,-1,,2021-12-23 00:00:00,game,DREAM
-3012660,0.8,-1,,2024-07-02 00:00:00,game,Pralai Song of The Last Empire
-2488850,1.5,-1,8.99,2025-11-05 00:00:00,game,MY FATHER LIED
-3653660,2.0,-1,,,game,Deck of Anubis
-1351950,0.8,-1,3.99,2020-08-28 00:00:00,game,Projectile Dysfunction
-2386520,-1.0,-1,1.99,2023-04-26 00:00:00,game,Pixel Tank
-353270,14.0,-1,14.99,2015-10-30 00:00:00,game,Hyperdimension Neptunia Re;Birth3 V Generation
-3448810,10.0,-1,,,game,RADIO STALKER
-335240,0.06,-1,,2015-01-30 00:00:00,game,Transformice
-1301000,-1.0,-1,1.99,2022-02-03 00:00:00,game,MYSTERY of the Missing Brigantine
-4631260,0.2,-1,,,game,Slay the GoblinZ
-1120370,1.0,-1,2.99,2019-08-06 00:00:00,game,場外人生
-4300400,8.0,-1,,,game,Adventurers Shop
-3276180,12.0,-1,,,game,Axolotl Shaman
-2207920,40.0,-1,,,game,Unsure
-500740,15.0,-1,,,game,Enigma Prison
-563750,0.6,-1,4.99,2016-12-09 00:00:00,game,World Boxing Manager
-2810050,1.0,-1,1.99,2024-04-05 00:00:00,game,BlitzBot
-2063140,0.1,-1,0.99,2022-08-04 00:00:00,game,NetaJump
-2882350,0.4,-1,4.99,2024-03-27 00:00:00,game,Mystery Box 5: Elements
-2850920,0.2,-1,1.99,2024-09-23 00:00:00,game,The Best Treasure
-2368370,8.0,-1,,,game,Here There Be Bears
-2121370,0.10200000000000001,-1,,2022-10-31 00:00:00,game,rotatePDF: A Corporate Tale
-720270,9.0,-1,2.99,2018-06-19 00:00:00,game,Defense Task Force - Sci Fi Tower Defense
-4253930,4.0,-1,,,game,Rodent Rampage
-545720,0.32,-1,0.99,2016-12-13 00:00:00,game,Nother: an indie souls-like
-1382020,2.0,-1,,2020-11-20 00:00:00,game,The Struggles Of Stefan
-1317020,4.0,-1,9.99,2023-09-18 00:00:00,game,77p egg: Eggwife
-1676530,0.6,-1,6.99,2021-08-11 00:00:00,game,Hentai Sushi Jigsaw
-2499990,0.25,-1,7.99,2023-12-26 00:00:00,game,The Rumble Fish +
-626020,0.5,-1,4.99,2017-10-19 00:00:00,game,Shadows in the Darkness
-3310220,0.8,-1,3.99,2025-10-25 00:00:00,game,Stranded In Starlight
-1301260,1.3,-1,0.99,2020-05-26 00:00:00,game,My Personal World
-3856180,0.5,-1,4.99,2026-03-19 00:00:00,game,Harmonic Convergence
-952560,20.0,-1,,,game,The Testing Floor
-3937510,3.0,-1,,2027-01-01 00:00:00,game,Midnight Therapy
-2885190,-1.0,-1,,,game,Aquarift
-1032440,0.2,-1,5.99,2019-05-14 00:00:00,game,Board Quizz Adventure
-2828150,2.0,-1,9.99,2024-03-12 00:00:00,game,Divine Journey 2: The Five Books of Moses
-2844320,2.0,-1,9.99,2024-06-27 00:00:00,game,SUPER BATTLE POLYCARS
-2900450,0.4,-1,0.99,2024-04-24 00:00:00,game,Hentai Elf
-3232520,0.2,-1,12.99,2025-06-02 00:00:00,game,Blasted Dice
-1215770,0.6,-1,14.99,2020-02-28 00:00:00,game,Naked Story (Sports Festival Ver)
-448070,0.7000000000000001,-1,0.49,2016-03-04 00:00:00,game,Red Risk
-2478900,2.0,-1,,,game,hislittlecuzin's Airsoft Pew Pew
-2060580,13.0,-1,14.99,2024-06-25 00:00:00,game,Crossedland
-1221640,0.5,-1,3.99,2020-02-20 00:00:00,game,Ultra Foodmess
-4366220,4.0,-1,,2026-01-01 00:00:00,game,Evolution: Code of 6 Desires
-2186270,2.0,-1,1.99,2025-09-26 00:00:00,game,"她毕业了 So Long, My Youth"
-3866920,4.0,-1,,2026-05-18 00:00:00,game,NAMAKORIUM (ナマコリウム)
-603110,0.05,-1,4.99,2019-07-17 00:00:00,game,Grizzland
-4158270,-1.0,-1,,2026-01-01 00:00:00,game,AGENCY
-4285310,0.4,-1,1.99,2026-02-07 00:00:00,game,EL CHISMOSO
-1238540,0.5,-1,,2020-03-23 00:00:00,game,Simple LOTO Simulator
-2693650,20.0,-1,0.99,2024-03-22 00:00:00,game,Kill Invaders
-2105070,0.8,-1,,,game,Another Space Opera - Episode 1: The Wake of The Giant
-1855110,0.3,-1,8.99,2022-03-23 00:00:00,game,Canyon
-3455140,0.1,-1,3.99,2025-03-19 00:00:00,game,三国阵
-2223640,0.05,-1,3.99,2023-01-06 00:00:00,game,"Towers, Turrets, Turtles"
-4087500,10.0,-1,,2026-01-01 00:00:00,game,The Final Hold
-925570,15.0,-1,9.99,2020-10-08 00:00:00,game,The Uncertain: Light At The End
-1149690,1.0,-1,9.99,2020-05-07 00:00:00,game,Hexogin
-2885830,-1.0,-1,,,game,Manticore
-3131970,4.0,-1,0.99,2024-08-16 00:00:00,game,Baguette Wars
-3349290,1.0,-1,,,game,Returnless
-2799240,1.0,-1,5.99,2024-05-13 00:00:00,game,Winds Up Kitesurfing
-4260870,0.5,-1,4.99,2026-01-01 00:00:00,game,Emu Empire
-563360,5.0,-1,9.99,2017-05-11 00:00:00,game,Market Tycoon
-570490,0.25,-1,2.99,2016-12-15 00:00:00,game,SHENZHEN SOLITAIRE
-2301900,1.0,-1,9.99,2024-03-08 00:00:00,game,Lost with you
-340190,18.0,-1,8.99,2019-03-19 00:00:00,game,Night Crisis
-1476680,0.5,-1,12.99,2022-03-01 00:00:00,game,Runika: A World of Little Legends
-1830100,0.125,-1,4.99,2021-12-17 00:00:00,game,Space Survival
-3831510,0.326,-1,0.99,2025-08-01 00:00:00,game,Five Nights At Stickman
-2211410,9.0,-1,9.99,2023-04-14 00:00:00,game,RivenWorld: The First Era
-1392410,2.0,-1,3.99,2020-10-18 00:00:00,game,Seeking Revenge
-3618590,0.15,-1,4.99,2025-07-17 00:00:00,game,Combo Overload
-4589530,5.0,-1,,,game,NIGHTMARE OF THE FOREST
-2266030,0.1,-1,3.99,2023-02-15 00:00:00,game,"Blood Money, Good Money"
-677300,2.0,-1,8.99,2017-08-22 00:00:00,game,Ghosts of Miami
-1754150,3.0,-1,0.99,2021-10-29 00:00:00,game,Car Tuning Simulator
-1646930,3.0,-1,5.99,2021-06-14 00:00:00,game,The Feeble Files
-3484470,-1.0,-1,0.69,2025-02-12 00:00:00,game,zu xing
-2380840,1.2550000000000001,-1,5.99,2023-05-19 00:00:00,game,PlasmaBlast 1.0.2 BETA
-1884800,4.0,-1,4.99,2022-07-29 00:00:00,game,Omitted
-2088210,0.5,-1,,,game,Toon Team
-1180030,1.55,-1,,2020-01-14 00:00:00,game,Wardwell House
-2704290,0.5,-1,,2023-12-14 00:00:00,game,Liam FitzRoy kills everyone The game Part Zero
-3985400,4.0,-1,3.99,2025-11-21 00:00:00,game,Ski Jumping World Cup
-2889160,-1.0,-1,,,game,Zodchy
-4585310,0.4,-1,,,game,地狱不空 Till Hell Is Empty
-1792850,-1.0,-1,,,game,Nuke Land
-4029170,2.0,-1,,,game,Geocoliseum Survival
-1891210,0.55,-1,0.99,2022-08-01 00:00:00,game,Quest: Escape Dungeon
-4378310,3.0,-1,,,game,Just Die
-1192260,1.002,-1,19.99,2020-01-03 00:00:00,game,Labyrinths of the World: The Wild Side Collector's Edition
-4656650,0.8,-1,,,game,Last Lawn Standing
+2776900,40.0,-1.0,,2024-08-28,game,The Eminence in Shadow: Master of Garden
+495350,4.0,-1.0,4.99,2016-09-16,game,Woodle Tree 2: Worlds
+3172310,6.0,-1.0,9.99,2025-03-29,game,Sex Desert: Mad Lust
+3072690,1.0,-1.0,4.99,2024-07-30,game,Futanari Sex Adventures - Episode 2
+2225960,-1.0,-1.0,7.99,2025-11-27,game,Noobs Are Coming
+1970400,0.14,-1.0,2.99,2022-10-10,game,Master of War: Rule of Power
+1192380,6.15,-1.0,14.99,2021-07-07,game,TOTALLY BASEBALL
+2734790,4.0,-1.0,2.99,2023-12-29,game,Unknown Soul With Me
+1736400,-1.0,-1.0,34.99,2021-11-04,game,TramSim Munich - The Tram Simulator
+3001160,8.0,-1.0,1.99,2024-07-02,game,真愿交错
+3550930,1.0,-1.0,,2025-06-18,game,INVERTA
+2104810,-1.0,-1.0,,2022-07-30,game,DinoLife Playtest
+2685220,-1.0,-1.0,0.49,2023-12-19,game,Where Pandas 熊猫在哪里
+207080,4.0,-1.0,9.99,2012-06-12,game,Indie Game: The Movie
+2852650,0.1,-1.0,2.99,2024-04-12,game,Kings And Goblins
+3068580,0.5,-1.0,6.99,2024-11-14,game,Divine Dynamo Flamefrit
+1426010,18.0,-1.0,19.99,2023-05-31,game,STASIS: BONE TOTEM
+2920570,2.0,-1.0,7.99,2024-08-30,game,Dale & Dawson Stationery Supplies
+2690010,-1.0,-1.0,7.99,2025-06-18,game,Handyman Fantasy
+774161,3.0,-1.0,6.99,2018-07-06,game,Steampunker
+820630,10.0,-1.0,24.99,2019-08-06,game,Metal Wolf Chaos XD
+3717420,-1.0,-1.0,,2025-07-03,game,Beatdown City Survivors Playtest
+2981040,0.3,-1.0,1.99,2024-06-07,game,AWAGAME
+903160,0.2,-1.0,0.99,2018-07-27,game,Wunderwaffe
+651940,0.312,-1.0,9.99,2019-01-15,game,Debris Field
+2128310,1.0,-1.0,14.99,2022-11-30,game,Ceaseless Night
+1169110,0.01,-1.0,1.99,2021-09-10,game,Super Bout: Champion's Tour
+3747670,0.1,-1.0,3.99,2025-06-29,game,Dinoslap
+3414780,0.5,-1.0,4.99,2025-08-31,game,Monster Ops 10
+3700910,0.1,-1.0,0.84,2025-05-17,game,Hentai Store
+2634210,0.4,-1.0,,2025-02-06,game,100 lil jumps
+1039290,0.75,-1.0,,2019-07-15,game,"Drumpf 2: Lost, But Not Forgotten!"
+1599910,5.0,-1.0,7.99,2022-06-07,game,Space Worthy
+521700,0.4,-1.0,19.99,2017-02-21,game,NOBUNAGA'S AMBITION: Sengoku Gunyuuden
+2725650,10.0,-1.0,19.99,2024-02-22,game,Pro Show Jumping
+274480,0.2,-1.0,19.99,2014-02-18,game,Drox Operative
+3119780,-1.0,-1.0,7.49,2024-10-28,game,Drive Thru Miami - Restaurant Simulator
+1314140,30.0,-1.0,34.99,2020-10-29,game,TramSim Vienna - The Tram Simulator
+2868580,0.2,-1.0,1.99,2024-03-26,game,BouncingBalls
+1412900,1.0,-1.0,1.99,2020-10-20,game,FTP
+2763810,-1.0,-1.0,6.99,2024-01-21,game,J and the Sewer World
+3337330,-1.0,-1.0,,2025-05-02,game,FBC: Firebreak Playtest
+1619780,2.0,-1.0,1.99,2021-08-25,game,task: 312
+3625890,0.1,-1.0,1.99,2025-04-12,game,SQUASER 7
+780740,1.0,-1.0,11.99,2018-07-25,game,Silent Footsteps
+3437060,0.512,-1.0,1.99,2025-02-10,game,Black Fairy Tale
+833170,1.0,-1.0,9.99,2021-08-09,game,Burned Land
+2409110,0.2,-1.0,9.99,2024-08-02,game,REAL WEB LEGENDS: Carter's Quest
+1282000,1.0,-1.0,4.99,2020-04-28,game,Saint Lary's Hospital - Ay Corona!
+2841750,3.0,-1.0,6.99,2024-12-19,game,DuaLight
+2062750,0.13,-1.0,2.99,2022-12-01,game,A Path to Light
+3244700,0.6,-1.0,9.99,2024-11-02,game,Archaeology - Egypt
+1630130,0.5,-1.0,6.99,2021-11-09,game,Lustful Tribe
+2569330,0.3,-1.0,5.99,2024-03-06,game,Pixel Descent
+2383520,0.3,-1.0,6.99,2024-05-16,game,Ziggy's Labyrinth
+496520,0.02,-1.0,5.99,2017-03-15,game,Typing with Jester
+1268000,0.25,-1.0,2.99,2020-08-27,game,Ragdoll Laser Battle
+1145860,1.6500000000000001,-1.0,0.99,2019-09-07,game,Quantum Multiverse
+2190130,2.0,-1.0,2.99,2022-12-02,game,B.I.G
+3532830,10.0,-1.0,4.99,2025-06-07,game,Saints of the Fallen Cross
+915160,0.1,-1.0,0.49,2018-08-15,game,Anime Girl Or Boy?
+2003050,10.0,-1.0,7.99,2023-02-13,game,Perseus: Titan Slayer
+3180020,-1.0,-1.0,,2024-08-30,game,WATERTRIX Playtest
+354400,1.0,-1.0,4.99,2016-09-02,game,Tadpole Treble
+2086570,0.3,-1.0,9.99,2022-11-20,game,MMI
+1800940,8.0,-1.0,14.99,2023-12-18,game,The Enjenir: The Engineering Physics Building Simulator
+336380,0.12,-1.0,0.99,2014-12-31,game,Catmouth Island
+3570370,0.75,-1.0,4.99,2025-10-06,game,CARIMARA: Beneath the forlorn limbs
+699240,0.4,-1.0,,2017-09-21,game,Keyboard Killers
+3030490,1.0,-1.0,1.99,2024-07-21,game,Direction!LevelUP!
+1000760,0.68,-1.0,19.99,2021-03-01,game,Foregone
+1554840,0.11,-1.0,0.99,2021-04-09,game,Toree 3D
+454970,0.06,-1.0,4.99,2016-04-15,game,Gravity Den
+2413090,2.0,-1.0,11.99,2023-05-19,game,Oppai Samurai: Knocked up by a No Name Novice
+2736220,1.0,-1.0,4.99,2024-06-25,game,GUNCHO
+3238870,-1.0,-1.0,,2024-09-24,game,Trumps Playtest
+1688100,2.0,-1.0,4.99,2022-03-17,game,Cat Museum
+639270,2.3000000000000003,-1.0,5.99,2017-08-04,game,Operation Warcade VR
+572710,3.0,-1.0,19.99,2017-02-13,game,Nancy Drew®: Labyrinth of Lies
+520940,26.0,-1.0,39.99,2018-03-27,game,MX vs ATV All Out
+3285990,-1.0,-1.0,,2024-10-26,game,Imperium Playtest
+589080,12.0,-1.0,17.99,2017-03-30,game,Enigma Sphere :Enhanced Edition
+569590,0.073,-1.0,,2017-01-11,game,The Legends of Owlia
+659000,0.03,-1.0,,2017-08-23,game,Meta Star
+612470,2.0,-1.0,12.99,2018-03-08,game,Bio Inc. Redemption
+2412910,-1.0,-1.0,,2023-04-28,game,Buluk Mayan Warfare Playtest
+3480580,1.024,-1.0,4.99,2025-10-20,game,Workhorse
+3581950,-1.0,-1.0,,2025-03-15,game,9 Trials of Whiskers Playtest
+1237890,0.1,-1.0,,2022-02-08,game,Goomanuvr
+951830,0.5,-1.0,,2025-10-24,game,The Last Sovereign
+1941550,-1.0,0.5,9.99,2022-06-24,game,The Coven of Calahree
+3440490,1.0,-1.0,14.99,2025-02-12,game,Circus Saboteur
+1613820,-1.0,-1.0,,2021-05-06,game,Qorena - Foresight
+3475120,0.6,-1.0,19.99,2025-03-14,game,Image2pixel-PixelArtGenerator
+1830000,0.2,-1.0,1.99,2021-12-15,game,Block City: Bus Edition
+557760,0.001,-1.0,9.99,2017-02-22,game,Of Light and Darkness
+1988010,7.0,-1.0,6.99,2022-05-27,game,Lightout 2
+2672130,2.0,-1.0,,2023-12-09,game,Bloodshots
+80200,1.0,-1.0,9.99,2011-02-28,game,Fate of the World
+2282200,0.25,-1.0,6.99,2023-03-16,game,Echo Storm
+1355720,2.5,-1.0,,2020-07-23,game,Henosis™
+1089030,0.45,-1.0,6.99,2019-07-05,game,The Prophecy Lies!
+416310,0.15,-1.0,2.99,2015-11-23,game,Goblin Defenders: Steel‘n’ Wood
+263920,0.512,-1.0,8.99,2015-10-16,game,Zombie Grinder
+2565210,0.9,-1.0,0.99,2023-09-06,game,Mountain Bicycle Rider Simulator
+2975720,0.5,-1.0,,2024-07-04,game,巧|合/co|incidence
+3133110,7.0,-1.0,,2025-03-28,game,One Shot Arena
+411310,3.0,-1.0,14.99,2016-02-18,game,"Codename: Panzers, Phase One"
+1151390,0.3,-1.0,0.99,2019-11-13,game,Putin Life
+2294730,4.0,-1.0,9.99,2025-09-09,game,MILFs of Sunville - Season 2
+3777290,0.2,-1.0,2.99,2025-06-17,game,Crabageddon
+1166840,-1.0,-1.0,8.99,2019-11-14,game,Breach: The Archangel Job
+2254060,0.02,-1.0,3.99,2023-01-17,game,Eskimo Eddie (C64/Spectrum)
+842560,0.72,-1.0,2.99,2018-04-24,game,War Hunter
+3515040,0.842,-1.0,4.99,2025-03-21,game,APOCALYPTIC PUSSY
+395350,2.0,-1.0,4.99,2016-02-12,game,Doors
+405310,15.0,-1.0,19.99,2016-01-26,game,LEGO® MARVEL's Avengers
+617020,0.3,-1.0,4.99,2017-05-26,game,OMEGA PATTERN - VISUAL NOVEL
+3134830,0.2,-1.0,5.99,2024-10-02,game,FLEA!2
+527910,1.044,-1.0,19.99,2016-09-16,game,Nevertales: Shattered Image Collector's Edition
+1401990,0.4,-1.0,1.99,2020-12-18,game,Missing Features: 2D
+878250,0.65,-1.0,0.74,2018-06-21,game,Super Jigsaw Puzzle: Monuments
+710950,-1.0,-1.0,9.99,2017-10-10,game,Pinewood Island
+521340,0.2,-1.0,4.99,2016-09-16,game,True or False
+1208090,1.0,-1.0,4.99,2020-01-22,game,Herbalist Simulator
+2742730,-1.0,-1.0,16.99,2025-01-16,game,Robot girl's dream -RobotBattleChampionship-
+2134980,5.0,-1.0,19.99,2025-10-24,game,Soul Dier - Part 1
+756890,2.0,-1.0,,2019-11-20,game,Alive Hunter
+3171440,0.2,-1.0,0.99,2024-09-11,game,Emerald Geography
+826740,-1.0,-1.0,14.99,2021-05-20,game,Rise of the Slime
+269530,0.6,-1.0,,2014-11-19,game,Voice of Pripyat
+3014460,0.9,-1.0,4.99,2025-07-11,game,Azrael's Tear
+1791430,2.0,-1.0,,2021-12-14,game,Vortle
+971150,6.0,-1.0,9.99,2020-03-15,game,B.O.T.S. and the Robofriends
+3924180,0.2,-1.0,3.99,2025-08-24,game,Just Dig
+3630120,2.0,-1.0,,2025-04-17,game,Nexistoreum
+2198800,1.0,-1.0,6.74,2022-11-18,game,CRUMB Circuit Simulator
+1111810,0.06,-1.0,2.99,2019-07-19,game,Sex Simulator
+1308560,8.0,-1.0,1.99,2020-08-28,game,The Legend of HyperStar
+411300,35.0,-1.0,29.99,2017-10-17,game,ELEX
+1472600,2.0,-1.0,4.99,2021-02-12,game,Terrene - An Evidence Of Life Game
+887520,0.8,-1.0,,2018-08-24,game,Seat of War
+2415630,-1.0,-1.0,,2023-05-06,game,Alien Frontier Playtest
+589510,0.25,-1.0,3.99,2017-04-05,game,Shovel Knight: Specter of Torment
+935580,1.0,-1.0,9.99,2018-11-02,game,True Fear: Forsaken Souls Part 2
+2777780,1.5,-1.0,5.99,2024-02-28,game,Sunray OS
+3226140,1.0,-1.0,12.99,2024-11-01,game,Coffee Please
+1507800,5.0,-1.0,,2021-08-26,game,Base Defense VR
+1432320,15.0,-1.0,15.99,2025-08-04,game,Liftoff®: Micro Drones
+2798040,10.0,-1.0,2.99,2024-04-12,game,One Last Dinner
+1380910,1.0,-1.0,29.99,2022-10-12,game,Stardeus
+2417510,1.2,-1.0,0.99,2023-05-30,game,RouRox
+3978750,20.0,-1.0,,2025-09-11,game,Ghlobot Shift
+1981290,-1.0,-1.0,0.49,2022-05-20,game,Mini Treasure Girl
+1002490,2.0,-1.0,1.99,2018-12-31,game,Roulette Simulator 2
+1768030,4.0,-1.0,9.99,2021-10-21,game,This & Cats
+2163710,30.0,-1.0,,2022-10-31,game,AevumCore
+1326470,20.0,-1.0,29.99,2024-02-22,game,Sons Of The Forest
+3831090,8.0,-1.0,6.99,2025-07-13,game,CinemaLandVR
+3533520,2.0,-1.0,1.99,2025-03-12,game,Accursed Isle: Survival
+672410,0.063,-1.0,4.99,2017-09-29,game,Access
+737870,0.3,-1.0,9.99,2017-12-05,game,Conduct DELUXE!
+952980,1.0,-1.0,1.99,2019-03-09,game,Torn Earth
+423490,4.0,-1.0,16.99,2017-06-14,game,Air Missions: HIND
+2920130,-1.0,-1.0,,2024-04-11,game,ScarQuest Playtest
+2664000,-1.0,-1.0,,2023-10-25,game,Rose Playtest
+2773570,9.0,-1.0,4.99,2024-01-27,game,Sex motel
+3167210,2.0,-1.0,3.99,2025-01-24,game,心所向往的北极星
+1567980,1.0,-1.0,9.99,2021-04-12,game,Tachyon Wars
+3099840,0.5,-1.0,,2024-09-14,game,Kimi to Kanojo no LILYVAGANZA
+1452210,2.0,-1.0,3.99,2022-12-23,game,INPUT6
+314240,0.18,-1.0,9.99,2016-02-12,game,RPG Tycoon
+2370790,6.0,-1.0,5.99,2024-01-26,game,The Mine
+1856970,1.0,-1.0,,2022-03-04,game,Captain CigArrr
+688680,0.4,-1.0,2.99,2017-08-21,game,Oswald's Adventure
+1173810,1.0,-1.0,17.99,2021-11-10,game,FINAL FANTASY V
+3101050,10.0,-1.0,9.99,2024-12-12,game,Parasitic Descent
+1974300,0.3,-1.0,12.99,2024-06-24,game,One Deck Galaxy
+655250,0.164,-1.0,0.49,2017-07-04,game,Insectophobia : Episode 1
+3837300,0.2,-1.0,2.99,2025-08-06,game,Against Tribulation
+1724720,-1.0,-1.0,,2021-08-12,game,Lake of Shadows Playtest
+2703170,5.0,-1.0,0.99,2024-01-01,game,Jump Penguin Final
+2156610,0.512,-1.0,9.99,2023-02-14,game,Gemscape
+3184110,0.5,-1.0,4.99,2024-10-31,game,Widget Inc.
+2285210,6.0,-1.0,,2023-03-09,game,Blue Wednesday: Prologue
+3183510,-1.0,-1.0,,2024-08-28,game,Mint Notes Playtest
+2840690,3.0,-1.0,9.99,2024-03-15,game,The One
+1895300,0.2,-1.0,,2022-06-14,game,Shinobi Warfare
+1535910,0.2,-1.0,0.99,2021-03-14,game,Kakuro Blend
+1451030,0.125,-1.0,9.99,2021-08-05,game,Star Hunter DX
+3896580,0.3,-1.0,0.99,2025-08-12,game,Dominated by: Yandere Goth Gamer Girl 2
+498000,0.3,-1.0,7.99,2019-05-10,game,Mushroom Crusher Extreme
+2390480,6.0,-1.0,9.99,2023-12-19,game,Beach Invasion 1945 - Pacific
+3792940,0.3,-1.0,0.99,2025-07-11,game,Dominated by: Yandere Goth Grandma
+1641120,10.0,-1.0,7.99,2024-07-22,game,Critter Crops
+3812510,-1.0,-1.0,,2025-08-13,game,Nyric Playtest
+3345670,-1.0,-1.0,0.99,2024-12-06,game,Ubiquitous
+3882030,1.0170000000000001,-1.0,19.99,2025-07-29,game,Whispered Secrets: Enfant Terrible Collector's Edition
+3075770,-1.0,-1.0,,2025-03-20,game,Cyber Paradise Playtest
+1988810,1.5,-1.0,,2022-06-06,game,BCI VR Horror Attraction: The Mad Trail
+1118410,0.1,-1.0,5.99,2021-06-24,game,GLADIUM
+998850,0.06,-1.0,4.99,2018-12-28,game,Knights of the Card Table
+3062620,0.075,-1.0,0.99,2024-08-06,game,Go Quirk!
+3093690,40.0,-1.0,,2024-11-14,game,Replikant Chat
+263700,0.256,-1.0,4.99,2014-05-20,game,Muffin Knight
+3431040,0.5,-1.0,2.99,2025-03-11,game,That's not my Neighbor
+461840,0.16,-1.0,1.99,2016-04-12,game,Zenge
+2956840,0.1,-1.0,3.99,2024-05-17,game,I commissioned some bunnies 5
+36900,0.6,-1.0,9.99,2009-08-17,game,Angle of Attack
+2718710,-1.0,-1.0,,2023-12-25,game,It Mimics
+578390,5.0,-1.0,4.99,2017-08-29,game,Remnith
+3892140,0.1,-1.0,1.99,2025-08-07,game,Sudoku-Zen
+629960,2.0,-1.0,1.99,2017-09-16,game,Trajectory of summer flower
+625100,0.06,-1.0,29.99,2017-11-22,game,TileSetGenerator
+1580280,-1.0,-1.0,,2021-03-24,game,Nongunz: Doppelganger Edition Playtest
+1259760,22.0,-1.0,19.99,2024-07-17,game,The Sacred Acorn
+1809250,-1.0,-1.0,1.99,2022-03-03,game,Got reincarnated into a world of RPG full of NPCs…
+2560650,2.0,-1.0,9.99,2023-09-16,game,College Sex Party 🔞
+279540,0.1,-1.0,1.99,2014-05-20,game,Pretentious Game
+711450,0.13,-1.0,0.99,2017-09-18,game,Orb The Ball
+1943220,4.0,-1.0,,2022-05-20,game,Sketch
+2410880,3.0,-1.0,17.99,2023-09-10,game,The Garden of silvergrass
+1834000,0.87,-1.0,,2022-10-31,game,KaRu
+838340,0.4,-1.0,4.99,2018-05-10,game,May
+2423890,-1.0,-1.0,,2023-08-08,game,JellyCod Playtest
+2017730,-1.0,-1.0,4.99,2022-12-16,game,The Chicken Game
+668980,0.8,-1.0,19.99,2018-07-31,game,Forsaken Remastered
+1038430,0.15,-1.0,5.99,2019-05-15,game,Dráscula: The Vampire Strikes Back
+836640,3.0,-1.0,2.99,2018-11-12,game,寄居隅怪奇事件簿 Hermitage Strange Case Files
+3200210,0.512,-1.0,,2025-08-05,game,Saga of Guardians
+1930180,0.265,-1.0,14.99,2022-04-24,game,1001 Jigsaw: Earth Chronicles 8
+1734990,0.5,-1.0,11.99,2022-05-24,game,The Netrunner Awaken1ng
+1338730,6.0,-1.0,14.99,2022-10-06,game,Paramount Hero
+1400200,0.809,-1.0,19.99,2020-08-21,game,Mystery Case Files: The Harbinger Collector's Edition
+2569560,0.33,-1.0,1.99,2024-01-24,game,Hyper Mirror Run
+562490,-1.0,-1.0,4.99,2017-02-03,game,EvilMorph
+1478080,0.5,-1.0,11.99,2020-12-04,game,Omi Domini
+1632040,-1.0,-1.0,0.61,2021-05-26,game,Magic defense
+2672300,5.0,-1.0,0.99,2023-12-13,game,The Castle
+807870,12.0,-1.0,9.99,2018-03-26,game,Survival Planet
+1873920,6.0,-1.0,19.99,2022-05-05,game,Fracked
+1054490,2.0,-1.0,19.99,2020-09-17,game,Wingspan
+3140160,1.0,-1.0,14.99,2025-05-08,game,Toward Dawn
+1179460,0.4,-1.0,0.99,2019-11-08,game,HAM-MASTER
+2773600,0.8,-1.0,2.99,2024-04-15,game,Picnic Peril
+3379580,0.02,-1.0,2.99,2025-02-25,game,Lily And Sury - Adventures on Cristya
+2532860,-1.0,-1.0,,2023-09-19,game,Outerstellar Playtest
+719250,4.0,-1.0,3.99,2017-11-20,game,Cove Point Fun Center VR
+2625030,1.0,-1.0,,2023-10-30,game,Know Your Limits
+3952010,8.0,-1.0,,2026-12-31,game,Jump Frog
+247350,0.2,-1.0,6.99,2013-09-16,game,Artemis Spaceship Bridge Simulator
+224480,3.0,-1.0,14.99,2014-01-30,game,Octodad: Dadliest Catch
+749200,0.8,-1.0,3.99,2017-11-24,game,Offensive Dimensions
+624970,10.0,-1.0,19.99,2018-03-01,game,Battlezone: Combat Commander
+1474940,0.875,-1.0,14.99,2020-11-27,game,Royal Roads 2 The Magic Box
+790450,0.04,-1.0,,2018-03-13,game,ANYKEY
+2951560,0.2,-1.0,,2024-05-19,game,Shoot or Die
+3397490,-1.0,-1.0,,2025-01-28,game,S.S.C. Rusted Playtest
+1711160,-1.0,-1.0,0.89,2021-08-15,game,Jigsaw With Animals
+3214790,10.0,-1.0,19.99,2025-08-07,game,Shards of the Realm
+1901940,0.46,-1.0,0.49,2022-02-25,game,Astro Mission: Moon
+2633340,8.0,-1.0,,2024-01-05,game,VARDIA
+4520,1.5,-1.0,9.99,2007-07-17,game,Full Spectrum Warrior
+2861280,1.0,-1.0,,2024-11-01,game,Moaisland
+1603430,-1.0,-1.0,,2021-04-30,game,Doomsday Paradise Playtest
+3728520,0.5,-1.0,0.99,2025-07-24,game,Sweet Driver
+1015920,1.0,-1.0,7.99,2021-06-05,game,Ynglet
+1204550,0.03,-1.0,2.99,2020-05-12,game,Kamtris
+2129290,1.0,-1.0,9.99,2022-09-14,game,Scary School Simulator
+1368950,4.0,-1.0,,2020-08-07,game,VTuber Maker
+916130,5.0,-1.0,,2018-09-20,game,Meet the Miner - WDR VR Bergwerk
+2384610,8.0,-1.0,19.99,2023-11-07,game,Franchise Hockey Manager 10
+3081040,3.0,-1.0,,2024-07-26,game,Puppetstring VTuber Tracking
+628570,0.45,-1.0,4.99,2022-05-09,game,Trivia Night
+2949820,-1.0,-1.0,4.99,2025-01-31,game,Siaty's return
+1740230,-1.0,-1.0,4.99,2023-07-24,game,Furquest
+1337280,1.0,-1.0,0.49,2020-06-13,game,Neon Girls
+3054830,-1.0,-1.0,,2024-07-12,game,Riftcast Playtest
+2308850,0.05,-1.0,5.99,2023-02-20,game,Fight in the Arena by Daniel da Silva
+1389730,0.1,-1.0,7.99,2020-09-30,game,Abiko The Miko
+1371930,0.35000000000000003,-1.0,4.99,2020-07-31,game,Family Quiz
+885780,0.512,-1.0,4.99,2018-08-29,game,Legion's Crawl
+3031590,0.5,-1.0,3.99,2024-06-20,game,13F
+1768350,0.003,-1.0,0.99,2021-12-21,game,Multris
+1571160,2.0,-1.0,14.99,2022-01-18,game,Lost Scavenger
+58570,8.0,-1.0,0.74,2011-04-21,game,The Next BIG Thing
+319850,-1.0,-1.0,9.99,2014-09-15,game,Bridge Constructor Medieval
+3633040,0.4,-1.0,4.99,2025-09-04,game,Grocery Run
+1879640,2.0,-1.0,9.99,2022-05-31,game,甜點王子2 典藏版
+3898190,-1.0,-1.0,,2025-07-23,game,Eurekas Playtest
+2142220,4.0,-1.0,3.99,2022-10-27,game,VR Dragon Flight
+2918910,-1.0,-1.0,,2024-04-15,game,Railink Playtest
+3384190,2.0,-1.0,5.99,2025-01-13,game,TrickShot Simulator
+1044640,0.2,-1.0,6.99,2019-03-20,game,Mundus - Impossible Universe
+1479000,2.0,-1.0,4.99,2020-12-07,game,Shredded Secrets
+876120,3.0,-1.0,5.99,2024-02-22,game,Jolly Rogers Pirates Rumble
+1961090,-1.0,-1.0,,2022-04-07,game,Crusader: Dungeon Series Playtest
+3681750,1.0,-1.0,7.99,2025-08-08,game,Summer Passion
+658230,4.0,-1.0,,2017-07-19,game,Chambered
+1594110,3.0,-1.0,,2024-02-02,game,Subluminal
+1747340,0.1,-1.0,2.99,2021-09-16,game,Hentai Girls Sliding Puzzle
+1848910,2.0,-1.0,,2025-02-07,game,Farmer Toon
+2820220,-1.0,-1.0,9.99,2024-11-15,game,Housemates
+2146570,-1.0,-1.0,11.99,2024-05-22,game,RKGK / Rakugaki
+1164410,0.5,-1.0,6.99,2019-10-24,game,Restless Hero
+2924030,-1.0,-1.0,4.99,2024-05-15,game,Overtime Heroes Exit 8
+3314760,7.0,-1.0,22.0,2024-12-12,game,VRenity
+924460,0.5,-1.0,1.99,2018-09-09,game,Vinylove
+244450,6.0,-1.0,29.99,2014-05-15,game,Men of War: Assault Squad 2
+1447350,2.0,-1.0,3.99,2024-05-30,game,Arcus Chroma: Classic
+1567060,4.0,-1.0,1.49,2021-03-08,game,WILD-9
+3510710,1.0,-1.0,3.99,2025-04-23,game,The Sisyphus journey
+3366930,-1.0,-1.0,,2024-11-25,game,Robot Reckoning Playtest
+3519030,-1.0,-1.0,4.99,2025-03-07,game,Pixel Mall
+749150,8.0,-1.0,,2018-10-26,game,Thrushbriar Hall
+1433490,0.4,-1.0,2.99,2021-09-13,game,Pristiq: Tash's Trilogy
+3092660,20.0,-1.0,,2024-10-08,game,Reverse: 1999
+686360,1.0,-1.0,19.99,2017-11-30,game,Dungeons & Treasure VR
+321870,1.5,-1.0,0.69,2014-10-01,game,Silence of the Sleep
+1154160,0.003,-1.0,2.99,2020-12-25,game,CRYPTIC
+3382280,6.0,-1.0,1.99,2024-12-19,game,HuntNPrey
+3445580,0.2,-1.0,7.99,2025-03-28,game,Ambidextro
+3103000,1.0,-1.0,0.99,2024-08-24,game,Hentai Dice Sudoku
+1295210,1.0,-1.0,19.99,2020-05-11,game,Snack clearing
+684350,0.14,-1.0,1.99,2022-04-02,game,Tank Tactics - TDS
+1896710,0.09,-1.0,,2022-02-17,game,Project Xenoflora
+2976170,5.0,-1.0,4.99,2024-06-14,game,Nowhere Near
+2262330,2.5,-1.0,1.99,2023-04-24,game,PhotonVERSE
+2539520,10.0,-1.0,,2025-08-22,game,Z.O.N.A: Origin
+3198270,0.5,-1.0,,2024-11-29,game,Monster Grid
+763010,0.5,-1.0,0.99,2017-12-26,game,Lost In Maze
+1678790,0.1,-1.0,2.99,2021-06-30,game,Erotic Jigsaw Puzzle Summer
+1215060,0.5,-1.0,,2020-11-29,game,A.V.I
+3304200,-1.0,-1.0,,2025-03-01,game,Tavern Ventures Playtest
+575750,0.2,-1.0,0.99,2017-01-19,game,Magic Box
+392020,-1.0,-1.0,,2015-08-26,game,RFLEX
+3204440,0.219,-1.0,4.99,2024-09-19,game,The Cube of Love
+2790500,0.2,-1.0,9.99,2024-04-16,game,Dungeons of Alethrion
+507270,0.512,-1.0,6.99,2016-08-15,game,Lily´s Epic Quest
+1325380,0.6,-1.0,2.99,2020-11-12,game,Live Empire
+1878300,0.4,-1.0,19.99,2024-02-09,game,Animaddicts
+619610,0.1,-1.0,0.99,2019-07-18,game,Ultratank
+934810,0.3,-1.0,0.99,2018-09-24,game,酒店
+2836810,8.0,-1.0,,2024-05-20,game,Escape From Zombietown
+3077530,10.0,-1.0,7.99,2024-07-24,game,Etera
+602150,8.0,-1.0,5.99,2017-04-11,game,Desert Battle
+819480,3.0,-1.0,11.99,2018-04-25,game,Pizza Titan Ultra
+431540,0.158,-1.0,,2016-01-08,game,Frosty Kiss
+577480,0.5,-1.0,5.19,2017-04-28,game,Higurashi When They Cry Hou - Ch.5 Meakashi
+819020,26.0,-1.0,59.99,2019-04-09,game,Zanki Zero: Last Beginning
+1986550,1.0,-1.0,4.99,2022-11-19,game,LOLLIPOP: SUMMER!
+1663210,2.0,-1.0,14.99,2023-07-26,game,PixelJunk™ Scrappers Deluxe
+2738890,-1.0,-1.0,6.49,2024-05-07,game,CANDYLAND: Sweet Survival
+698110,13.0,-1.0,19.99,2018-05-09,game,Reficul VR
+2128680,0.6,-1.0,15.6,2023-10-01,game,ファントムゾーン　ダイモンズ  Phantom Zone DAIMONS
+3322370,0.4,-1.0,,2024-12-10,game,街机三国
+788100,1.024,-1.0,19.99,2020-07-14,game,Neon Abyss
+46360,3.5,3.5,4.99,2010-07-09,game,Theatre of War 2: Kursk 1943
+3138800,0.9,-1.0,1.99,2024-08-21,game,Twizzle Puzzle: Dragons
+951860,2.0,-1.0,24.99,2022-10-14,game,Once Ever After
+811640,1.0,-1.0,0.99,2018-03-14,game,Divided: Soul Theft
+3423620,4.0,-1.0,,2025-03-11,game,AccuBow VR
+969420,2.089,-1.0,0.99,2018-11-22,game,Dereliction
+3153020,3.0,-1.0,9.99,2025-08-11,game,Skatehouse
+1897120,6.0,-1.0,12.99,2022-09-28,game,Happiness Double Room
+2738860,2.0,-1.0,11.99,2024-11-28,game,Seductive Shadows
+1420950,0.19,-1.0,4.99,2020-10-10,game,Spinning_Kid
+528260,2.0,-1.0,12.99,2017-04-27,game,TITAN SLAYER
+1989650,0.5,-1.0,0.89,2022-08-05,game,Hearts United
+3694910,916.0,-1.0,2.99,2025-05-22,game,Tank Busters
+1824130,0.1,-1.0,1.99,2022-09-14,game,Outside the Window
+2299130,1.0,-1.0,3.99,2023-08-05,game,SEX Doll Simulator🔞
+1258900,8.0,-1.0,9.99,2021-07-09,game,Arcade Redemption
+2228740,-1.0,-1.0,,2023-03-06,game,Legacy Of The Pact Playtest
+3047810,0.5,-1.0,3.99,2024-07-26,game,Summer Sex Saga 🏄‍♂️💦
+842980,1.0,-1.0,,2024-10-30,game,Dungeon Crusher: Soul Hunters
+2206590,2.0,-1.0,2.99,2023-01-20,game,Fateel - فتيل
+2442880,21.0,-1.0,,2023-06-20,game,A Bad Day For A Hangover
+918170,0.132,-1.0,,2018-08-10,game,Curiosity
+1941130,0.1,-1.0,1.09,2022-04-05,game,Golden Mine Pickaxe 2: Mummy Tombs
+3827060,-1.0,-1.0,,2025-08-01,game,Parisian Brasserie Simulator Playtest
+2137400,2.0,-1.0,5.99,2023-05-02,game,EmyLiveShow: S&M story
+3037130,1.0,-1.0,6.0,2024-08-20,game,Magical Monsters
+3277060,0.333,-1.0,2.99,2025-01-30,game,The Story Of
+3749280,-1.0,-1.0,1.99,2025-06-05,game,Coffee Rush
+2852760,1.0,-1.0,6.99,2025-10-17,game,This Is No Cave
+2196280,0.08,-1.0,0.99,2022-11-11,game,查理公馆事件簿
+1504740,5.0,-1.0,6.99,2021-02-21,game,Find Yourself
+1643660,0.7000000000000001,-1.0,,2021-06-14,game,Silent dream
+566490,2.0,-1.0,4.99,2020-06-25,game,Keen: One Girl Army
+2998880,4.0,-1.0,9.99,2024-06-15,game,Hot & Lewd: Miami
+2757320,-1.0,-1.0,,2025-07-02,game,PIUSteam Playtest
+407290,0.1,-1.0,6.99,2015-10-08,game,There Was A Caveman
+942480,20.0,-1.0,4.99,2018-10-07,game,Criminal Pursuit Force
+2284800,1.0,-1.0,19.99,2023-12-05,game,Arms Race 2
+390660,0.25,-1.0,0.99,2015-08-10,game,Call of Tomsk-7
+1259380,0.557,-1.0,4.99,2020-03-18,game,Submarine Titans
+1111310,2.0,-1.0,2.99,2019-09-30,game,Duck in Town - A Rising Knight
+252830,1.0,-1.0,9.99,2014-07-07,game,Claire
+1854290,3.0,-1.0,4.99,2022-01-24,game,Kakureza Library
+1459890,1.0,-1.0,9.99,2023-04-06,game,Cold Harvest
+1665250,-1.0,-1.0,3.99,2021-11-18,game,Nightmare
+2967640,-1.0,-1.0,,2024-06-11,game,STEAMStar
+2427220,-1.0,-1.0,0.99,2024-09-11,game,Tyrannical Chickens
+3493010,-1.0,-1.0,,2025-02-04,game,ExTermi Playtest
+893640,0.25,-1.0,,2019-04-18,game,Dances with Butterflies VR
+2992210,3.0,-1.0,6.99,2024-06-13,game,Beyond The Walls
+3939190,-1.0,-1.0,,2025-10-02,game,Ocean Keeper Co-op Playtest
+1135810,0.5,-1.0,17.99,2022-10-04,game,Vault of the Void
+1859280,0.2,-1.0,7.99,2022-02-06,game,7 Days to End with You
+1629740,-1.0,-1.0,,2021-05-06,game,Pill Puzzle Playtest
+3619600,2.0,-1.0,4.99,2025-05-06,game,Indulgentia - NSFW Anime Puzzle Game
+292570,0.3,-1.0,1.99,2014-05-16,game,Chompy Chomp Chomp
+2506290,5.0,-1.0,19.99,2025-06-19,game,Nova Hearts
+811950,3.0,-1.0,1.99,2018-09-28,game,Bloody Faerie
+2448680,1.0,-1.0,4.99,2024-10-02,game,The Monarch
+826050,2.0,-1.0,5.99,2020-03-19,game,Chime Sharp Game Composer Edition
+1054690,16.0,-1.0,1.24,2020-03-10,game,Dreadlands
+3116190,0.3,-1.0,4.99,2024-08-05,game,Let's Aim! Shooting Gallery
+935560,0.095,-1.0,1.99,2018-09-21,game,Hentai Strip Shot
+404200,10.0,-1.0,19.99,2018-02-08,game,WARTILE
+2754040,-1.0,-1.0,1.29,2024-01-23,game,Fisherman'sWorld
+865800,0.12,-1.0,0.99,2018-07-03,game,Octo Gravity
+372980,0.15,-1.0,,2016-12-28,game,MasterCook 15
+3740050,-1.0,-1.0,2.99,2025-08-29,game,Lugubrious
+357330,0.2,-1.0,14.99,2022-06-03,game,Space Beast Terror Fright
+586160,0.5,-1.0,3.99,2017-04-10,game,Dash Fleet
+1096210,-1.0,-1.0,4.99,2019-08-23,game,Mekabolt
+1087610,2.0,-1.0,2.99,2019-08-05,game,Red Death: 8Feet
+665140,3.0,-1.0,,2017-12-15,game,Midnight at the Red Light : An Investigation
+832130,0.128,-1.0,,2018-08-21,game,Negative World
+263620,0.2,-1.0,9.99,2014-03-10,game,Mitsurugi Kamui Hikae
+2561500,1.5,-1.0,13.99,2023-11-16,game,Tears of Adria
+2267950,-1.0,-1.0,,2023-01-11,game,Route 66 Simulator Playtest
+3428100,0.22,-1.0,0.99,2025-01-22,game,NICE PUDDING WORLD DX
+1041840,4.096,-1.0,19.99,2019-12-20,game,Fight Angel Special Edition
+2481180,-1.0,-1.0,,2023-06-24,game,Le voyage de Lucy Playtest
+2512820,-1.0,-1.0,,2024-03-26,game,BOOMEROAD
+524200,0.1,-1.0,24.99,2017-01-20,game,Queen Of Thieves
+3286560,2.0,-1.0,4.99,2025-04-17,game,Evil Lurks Below
+1132970,20.0,-1.0,0.79,2020-11-06,game,Time To Stop Time
+731940,0.7000000000000001,-1.0,1.99,2017-11-10,game,Bars and Balance
+220,6.5,-1.0,9.99,2004-11-16,game,Half-Life 2
+507520,0.1,-1.0,,2017-06-05,game,Zzzz-Zzzz-Zzzz
+670090,-1.0,-1.0,2.99,2017-11-10,game,FallenCore
+3681820,20.0,-1.0,4.99,2025-07-17,game,MoonMiners
+508250,4.5,-1.0,,2019-03-05,game,Aussie Sports VR 2016
+3647690,0.2,-1.0,1.99,2025-07-15,game,Cuddle Corner
+3090570,3.0,-1.0,4.99,2025-07-11,game,Time for Bed
+2281900,0.267,-1.0,2.99,2023-03-02,game,Fairytale Theatre
+3028200,0.05,-1.0,2.99,2025-04-24,game,Wheel Up The Hill
+201290,4.0,-1.0,9.99,2011-11-16,game,Sins of a Solar Empire: Trinity®
+346080,0.15,-1.0,0.99,2015-02-02,game,Astro Emporia
+2731590,0.2,-1.0,9.99,2025-02-17,game,Block Shop
+3385670,2.0,-1.0,29.99,2025-04-25,game,World of Goo 2
+1424700,5.0,-1.0,0.99,2020-10-08,game,The secret of the stone
+861960,0.2,-1.0,,2018-06-09,game,Master Pyrox Wizard Smackdown
+3045490,-1.0,-1.0,,2024-06-20,game,前哨站3 Playtest
+1202690,6.0,-1.0,7.99,2021-06-04,game,Sex with the Devil
+2790530,0.5,-1.0,4.99,2024-02-19,game,Cat's Cafeteria
+1554600,2.0,-1.0,2.99,2021-09-30,game,Wife Quest
+3032620,8.0,-1.0,11.99,2025-09-12,game,Knight of Justice
+700610,0.35000000000000003,-1.0,0.99,2017-10-08,game,DungeonGOGO
+793370,1.0,-1.0,3.99,2019-05-28,game,KIDS
+641910,4.0,-1.0,0.99,2018-01-15,game,Bike Rush
+2276370,-1.0,-1.0,,2023-01-10,game,iDentity Rebels Playtest
+1794860,5.0,-1.0,6.99,2021-12-09,game,Zombie Crush VR
+2428320,4.0,-1.0,11.99,2023-07-11,game,Just Find It 2
+1876220,-1.0,-1.0,4.99,2022-03-19,game,"Lights, Camera, Reaction! IRL Edition"
+529890,0.04,-1.0,5.99,2017-12-18,game,Maniac Mansion
+1132090,1.0,-1.0,10.99,2019-10-11,game,Silk
+1203780,0.5,-1.0,3.99,2020-06-05,game,Tiamat's Drink
+1073210,0.2,-1.0,9.99,2019-09-11,game,Mermaid Colony
+1777990,20.0,-1.0,9.99,2025-09-08,game,Ortharion : The Last Battle
+1691520,-1.0,-1.0,,2021-08-29,game,Erannorth Chronicles Playtest
+1318140,-1.0,-1.0,,2020-05-15,game,BookConverter
+2629640,1.0,-1.0,1.99,2023-11-22,game,Lazer Rush Reloaded
+2623750,3.0,-1.0,11.99,2023-10-20,game,Ghost Girl Ghussy: XXXL Edition
+1043160,0.25,-1.0,4.99,2019-03-26,game,You Versus 27 Elves
+3813470,1.0,-1.0,,2025-08-20,game,Silent Residence
+2338770,150.0,-1.0,,2023-09-07,game,NBA 2K24
+3918510,-1.0,-1.0,,2025-08-04,game,SpiritVale Playtest
+3424040,15.0,-1.0,24.99,2025-04-11,game,Synthetic Dreams 18+
+2873090,0.8,-1.0,0.59,2024-04-04,game,Hentai Tales: Conception Shrine
+3416370,0.39,-1.0,5.99,2025-03-26,game,Hope's Farm 2
+397580,6.0,-1.0,4.99,2015-09-18,game,Moonbase 332
+207690,0.55,-1.0,2.99,2012-05-07,game,Botanicula
+1232920,4.0,-1.0,,2020-05-11,game,Parliament - Parlement
+1060110,0.25,-1.0,0.99,2019-04-19,game,Space Trade Fleet 1.5
+1025890,2.97,-1.0,,2019-10-04,game,Other Submarine
+587840,0.1,-1.0,,2017-02-01,game,In the Darkness of the Sea
+1788760,0.5,-1.0,2.99,2021-10-29,game,Dragon Kingdom
+2062840,1.0,-1.0,0.99,2023-01-08,game,Animperium
+1257620,1.0,-1.0,0.99,2022-09-15,game,MagiCarnage
+993330,0.3,-1.0,1.99,2019-01-30,game,ISLAND 404
+3145470,-1.0,-1.0,,2026-03-20,game,ACE Strategy Playtest
+1605290,0.15,-1.0,,2021-05-20,game,Paint By Numbers
+2256160,0.2,-1.0,,2023-03-29,game,Survive Now
+2549870,0.2,-1.0,,2024-05-22,game,My Hobby: Needlework Galore
+1082940,0.256,-1.0,1.99,2019-06-04,game,Pop'n'splat
